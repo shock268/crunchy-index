@@ -1,0 +1,13 @@
+﻿http://www.crunchyroll.com/tos
+
+Obligations for Crunchyroll Users.
+
+you agree that you will not do any of the following while using or accessing 
+the Site or Services:
+
+Attempt to access, search or meta-search the Site with any engine, software, 
+tool, agent, device or mechanism other than software and/or search agents 
+provided by Crunchyroll or other generally available third party web browsers 
+(such as Microsoft Internet Explorer, Mozilla Firefox, Safari or Opera), 
+including without limitation any software that sends queries to the Site to 
+determine how a website or web page ranks;
